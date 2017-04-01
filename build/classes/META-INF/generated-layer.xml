@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Actions">
+        <folder name="Tools">
+            <file name="nl-hvu-module-codeanalyzer-jvg-GetSomeAction.instance">
+                <!--nl.hvu.module.codeanalyzer.jvg.Dockerize-->
+                <attr
+                    bundlevalue="nl.hvu.module.codeanalyzer.jvg.Bundle#CTL_Dockerize" name="displayName"/>
+                <attr
+                    methodvalue="org.openide.awt.Actions.alwaysEnabled" name="instanceCreate"/>
+                <attr name="delegate" newvalue="nl.hvu.module.codeanalyzer.jvg.Dockerize"/>
+                <attr boolvalue="false" name="noIconInMenu"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Tools">
+            <file name="nl-hvu-module-codeanalyzer-jvg-GetSomeAction.shadow">
+                <!--nl.hvu.module.codeanalyzer.jvg.Dockerize-->
+                <attr name="originalFile" stringvalue="Actions/Tools/nl-hvu-module-codeanalyzer-jvg-GetSomeAction.instance"/>
+                <attr intvalue="0" name="position"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

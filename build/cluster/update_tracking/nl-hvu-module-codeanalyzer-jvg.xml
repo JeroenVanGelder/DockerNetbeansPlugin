@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="nl.hvu.module.codeanalyzer.jvg">
+    <module_version install_time="1490102441376" last="true" origin="installer" specification_version="1.0">
+        <file crc="2352774208" name="config/Modules/nl-hvu-module-codeanalyzer-jvg.xml"/>
+        <file crc="1528329914" name="modules/nl-hvu-module-codeanalyzer-jvg.jar"/>
+    </module_version>
+</module>

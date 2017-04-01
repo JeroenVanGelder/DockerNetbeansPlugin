@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: nl.hvu.module.codeanalyzer.jvg
+OpenIDE-Module-Localizing-Bundle: nl/hvu/module/codeanalyzer/jvg/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
